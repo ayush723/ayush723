@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 
 <p>Welcome to my page! </br> I'm Ayush, Backend developer from <img src="https://img.icons8.com/fluency/48/nepal.png" width="13" alt="nepal"/> <b>Kathmandu, Nepal</b>. </p>
@@ -22,3 +22,10 @@
   ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
   
+## 🤝 Let's Connect
+<a href="https://github.com/ayush723" _target="blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/ayush723" _target="blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+ </a>
