@@ -1,7 +1,7 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.
 
 
-<p>Welcome to my page! </br> I'm Ayush, Backend developer from <img src="https://img.icons8.com/fluency/48/nepal.png" width="13" alt="nepal"/> <b>Kathmandu, Nepal</b>. </p>
+I'm Ayush, Backend developer from <img src="https://img.icons8.com/fluency/48/nepal.png" width="13" alt="nepal"/> <b>Kathmandu, Nepal</b>. </p>
 <h3>Things I code with</h3>
 
   ![OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple)
